@@ -45,7 +45,36 @@ footer {
     margin: 10px 0;
 }
 
-.intro {
+#grecia01Logo {
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.cardHorizon {
+    margin: 10px 0;
+}
+
+.cardHorizon img {
+    width: 200px;
+}
+
+.cardQuadrado {
+    margin: 10px 0;
+}
+
+.cardQuadrado img {
+    width: 125px;
+}
+
+.cardVertic {
+    margin: 10px 0;
+}
+
+.cardVertic img {
+    height: 200px;
+}
+
+.intro, .info {
     margin: 0 0 10px 0;
     width: 80%;
     text-align: center;
@@ -96,12 +125,41 @@ footer {
         font-size: 1.0em;
     }
 
+    #grecia01Logo {
+        width: 120px;
+        margin-bottom: 8px;
+    }
+
     footer {
         margin: 20px 0;
     }
 
-    .intro {
+    .intro, .info {
         margin: 0 0 15px 0;
+    }
+
+    .cardHorizon {
+        margin: 15px 0;
+    }
+    
+    .cardHorizon img {
+        width: 300px;
+    }
+
+    .cardQuadrado {
+        margin: 15px 0;
+    }
+    
+    .cardQuadrado img {
+        width: 160px;
+    }
+
+    .cardVertic {
+        margin: 15px 0;
+    }
+    
+    .cardVertic img {
+        height: 300px;
     }
 
     .button {
@@ -136,12 +194,41 @@ footer {
         font-size: 1.0em;
     }
 
+    #grecia01Logo {
+        width: 140px;
+        margin-bottom: 10px;
+    }
+
     footer {
         margin: 20px 0;
     }
 
-    .intro {
+    .intro, .info {
         margin: 0 0 15px 0;
+    }
+
+    .cardHorizon {
+        margin: 15px 0;
+    }
+    
+    .cardHorizon img {
+        width: 350px;
+    }
+
+    .cardQuadrado {
+        margin: 15px 0;
+    }
+    
+    .cardQuadrado img {
+        width: 190px;
+    }
+
+    .cardVertic {
+        margin: 15px 0;
+    }
+    
+    .cardVertic img {
+        height: 350px;
     }
 
     .button {
@@ -176,12 +263,41 @@ footer {
         font-size: 1.0em;
     }
 
+    #grecia01Logo {
+        width: 140px;
+        margin-bottom: 12px;
+    }
+
     footer {
         margin: 20px 0;
     }
 
-    .intro {
+    .intro, .info {
         margin: 0 0 15px 0;
+    }
+
+    .cardHorizon {
+        margin: 20px 0;
+    }
+    
+    .cardHorizon img {
+        width: 400px;
+    }
+
+    .cardQuadrado {
+        margin: 20px 0;
+    }
+    
+    .cardQuadrado img {
+        width: 225px;
+    }
+
+    .cardVertic {
+        margin: 20px 0;
+    }
+    
+    .cardVertic img {
+        height: 400px;
     }
 
     .button {
